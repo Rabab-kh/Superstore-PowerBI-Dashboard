@@ -22,5 +22,5 @@ Dashboard analysant les ventes, la performance commerciale et la logistique du d
 - **Visualisations** : cartes KPI, histogrammes, courbe temporelle, tableau
 - **Interactivité** : segment avec "Sélectionner tout", KPI avec objectif
 
-  ## Soure du dataset (kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
+  -> Soure du dataset (kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 

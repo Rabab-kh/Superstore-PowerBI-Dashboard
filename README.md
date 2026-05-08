@@ -14,11 +14,11 @@ Dashboard analysant les ventes, la performance commerciale et la logistique du d
 
 - **Power Query** : nettoyage des données (types)
 - **Mesures DAX** :
-      +Total Sales = SUM(Sales)
-      +Total Profit = SUM(Profit)
-      +Margin % = DIVIDE(SUM('Sample - Superstore'[Profit]), SUM('Sample - Superstore'[Sales]), 0)
-      +AVG Ship Period (days) = AVERAGEX('Sample - Superstore',DATEDIFF('Sample - Superstore'[Order Date], 'Sample - Superstore'[Ship Date], DAY))
-      +Objectif Sales = SUM('Sample - Superstore'[Sales])*1.10
+      +Total Sales = SUM(Sales) <br>
+      +Total Profit = SUM(Profit) <br>
+      +Margin % = DIVIDE(SUM('Sample - Superstore'[Profit]), SUM('Sample - Superstore'[Sales]), 0) <br>
+      +AVG Ship Period (days) = AVERAGEX('Sample - Superstore',DATEDIFF('Sample - Superstore'[Order Date], 'Sample - Superstore'[Ship Date], DAY)) <br>
+      +Objectif Sales = SUM('Sample - Superstore'[Sales])*1.10 <br>
 - **Visualisations** : cartes KPI, histogrammes, courbe temporelle, tableau
 - **Interactivité** : segment avec "Sélectionner tout", KPI avec objectif
 

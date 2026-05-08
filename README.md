@@ -13,7 +13,7 @@ Dashboard analysant les ventes, la performance commerciale et la logistique du d
 ### Compétences démontrées
 
 - **Power Query** : nettoyage des données (types)
-- **Mesures DAX** :
+- **Mesures DAX** : <br>
       +Total Sales = SUM(Sales) <br>
       +Total Profit = SUM(Profit) <br>
       +Margin % = DIVIDE(SUM('Sample - Superstore'[Profit]), SUM('Sample - Superstore'[Sales]), 0) <br>
